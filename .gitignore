@@ -1,1 +1,12 @@
 .idea
+_pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.venv/
+*.egg-info/
+.DS_Store
+Thumbs.db
+
